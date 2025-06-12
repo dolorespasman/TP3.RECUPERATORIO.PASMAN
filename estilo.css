@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Hand:wght@400..700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Quicksand:wght@300..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;}
+
+body{
+	margin: 0;
+	height: 100%;
+	background-color: black;
+	font-family: Libre Baskerville;
+
+}
+
+
+
+header {
+	background-color: black;
+	padding: 30px;
+	text-align: center;
+
+}
+
+main{
+	padding: 20px;
+}
+nav{
+	background-color: #8B0000;
+	padding: 15px;
+
+}
+
+nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+nav li{
+	display: inline;
+	margin-left: 50px;
+	margin-right: 20px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+nav a {
+	color: whitesmoke;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+h3{
+	color: black;
+	font-size: 24px;
+	padding: 5px;
+	text-align: center;
+	
+ 
+}
+
+ul, ol{
+	padding-left: 20px;
+}
+
+p{
+	font-size: 15px ;
+	color: whitesmoke;
+	padding: 15px;
+}
+
+.texto1{
+	font-size: 15px ;
+	color: black;
+}
+
+footer{
+	margin-bottom: 5px;
+	background-color:  #8B0000 ;
+	text-align: center;
+}
+
+#caja1{
+	width: 800px;
+	height: 600px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	margin-bottom: 10px;
+	background-color: whitesmoke;
+	padding: 40px ;
+	border-radius: 20px;
+	border-style: solid;
+	border-width: 3px;
+
+}
+
+img {
+  margin-left: 80px; 
+  margin-top: 3px;  
+  margin-right: 60pc;
+  margin-bottom: 15px;
+
+}
+
+.lechuga{
+  width: 500px;
+}
+
+.pollo{
+width: 500px;
+}
+.torta{
+width: 500px;
+}
+
+.logo{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	margin-bottom: 10px;
+
+}
+
+
+
+
+
